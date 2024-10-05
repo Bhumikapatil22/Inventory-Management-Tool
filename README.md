@@ -10,7 +10,7 @@
 + [Contact](#contact)
 
 ## Description <a name="description"></a>
-Inventory Management Tool, built with Java and Spring framework, streamlines the management of raw materials and processed items. Key features include CRUD operations on raw materials and processed items, Issuing materials and monitoring unavailable items.
+The Inventory Management Tool, developed using Java and the Spring Framework, offers an efficient solution for managing both raw materials and processed items. This tool is designed to streamline inventory operations by providing real-time control over stock levels, improving accuracy, and boosting productivity in day-to-day management tasks. Its user-friendly interface and powerful backend ensure smooth inventory tracking and optimization, minimizing the risk of material shortages and stock imbalances.
 
 ## Technology <a name="technology"></a>
 - **Frontend**: HTML, CSS, Bootstrap
@@ -19,27 +19,37 @@ Inventory Management Tool, built with Java and Spring framework, streamlines the
 - **Version Control**: Git
 
 ## Features <a name="features"></a>
-- Admin can add, delete and view Customer and Service Man.
-- Customer can add and view complaint. Also generates service code to solve complaints.
-- Admin can view all solved and unsolved complaints of customers and can assign unsolved complaints to particular Service Man.
-- Service man can solve assigned complaints by entering service code.
-
+1. Comprehensive CRUD Operations
+    - Perform Create, Read, Update, and Delete (CRUD) operations on both raw materials and processed items.
+    - Easily add new inventory items, modify existing records, or remove obsolete items from the system.
+    - View real-time data on all inventory components.
+2. Material Issuance Management
+    - Issue raw materials and processed goods for production or other purposes with ease.
+    - Track the quantity of materials issued and the remaining stock, helping to ensure that critical items are always available.
+3. Unavailable Items Monitoring
+    - Automatically flag unavailable or out-of-stock items, allowing for timely replenishment.
+4. Role-Based Access Control
+    - Manage different user roles, ensuring that only authorized personnel can perform certain actions, such as issuing materials or deleting records.
+5. Integration-Ready
+    - Can be easily integrated with other systems or tools for additional functionalities, such as automated reordering or supply chain management.
+      
 ## Screenshots <a name="screenshots"></a>
 
-![Screenshot 1](https://github.com/Bhumikapatil22/CRM-For-ISP/blob/main/images/1.png)
-![Screenshot 2](https://github.com/Bhumikapatil22/CRM-For-ISP/blob/main/images/2.png)
-![Screenshot 3](https://github.com/Bhumikapatil22/CRM-For-ISP/blob/main/images/3.png)
-![Screenshot 4](https://github.com/Bhumikapatil22/CRM-For-ISP/blob/main/images/4.png)
-![Screenshot 5](https://github.com/Bhumikapatil22/CRM-For-ISP/blob/main/images/5.png)
-![Screenshot 6](https://github.com/Bhumikapatil22/CRM-For-ISP/blob/main/images/6.png)
+![Screenshot 1](https://github.com/Bhumikapatil22/Inventory-Management-Tool/blob/main/images/Screenshot%20(515).png?raw=true)
+![Screenshot 1](https://github.com/Bhumikapatil22/Inventory-Management-Tool/blob/main/images/Screenshot%20(516).png?raw=true)
+![Screenshot 1](https://github.com/Bhumikapatil22/Inventory-Management-Tool/blob/main/images/Screenshot%20(517).png?raw=true)
+![Screenshot 1](https://github.com/Bhumikapatil22/Inventory-Management-Tool/blob/main/images/Screenshot%20(518).png?raw=true)
+![Screenshot 1](https://github.com/Bhumikapatil22/Inventory-Management-Tool/blob/main/images/Screenshot%20(522).png?raw=true)
+![Screenshot 1](https://github.com/Bhumikapatil22/Inventory-Management-Tool/blob/main/images/Screenshot%20(523).png?raw=true)
+![Screenshot 1](https://github.com/Bhumikapatil22/Inventory-Management-Tool/blob/main/images/Screenshot%20(524).png?raw=true)
 
 ## Usage <a name="usage"></a> 
-1. Customers can easily add complaints about their internet related issues.
-2. Admin can view all the complaints and can assign it to appropriate service man.
-3. Service man can view and solve own assigned complaints only.
+1. Add and Manage Stock: Easily create, update, or delete inventory items, ensuring accurate stock records.
+2. Monitor Stock Levels: Track real-time inventory data and monitor available and unavailable items.
+3. Issue Materials: Log material issuance for production or dispatch, tracking consumption effectively.
 
 ## Installation and Setup <a name="installationandsetup"></a>
-1. Clone the repository: `git clone https://github.com/Bhumikapatil22/CRM-For-ISP`
+1. Clone the repository: `git clone https://github.com/Bhumikapatil22/Inventory-Management-Tool`
 2. Set up the database using XAMPP.
 3. Open the project in your Eclipse IDE.
 
