@@ -39,8 +39,8 @@ The Inventory Management Tool, developed using Java and the Spring Framework, of
 ![Screenshot 1](https://github.com/Bhumikapatil22/Inventory-Management-Tool/blob/main/images/Screenshot%20(516).png?raw=true)
 ![Screenshot 1](https://github.com/Bhumikapatil22/Inventory-Management-Tool/blob/main/images/Screenshot%20(517).png?raw=true)
 ![Screenshot 1](https://github.com/Bhumikapatil22/Inventory-Management-Tool/blob/main/images/Screenshot%20(518).png?raw=true)
-![Screenshot 1](https://github.com/Bhumikapatil22/Inventory-Management-Tool/blob/main/images/Screenshot%20(522).png?raw=true)
 ![Screenshot 1](https://github.com/Bhumikapatil22/Inventory-Management-Tool/blob/main/images/Screenshot%20(523).png?raw=true)
+![Screenshot 1](https://github.com/Bhumikapatil22/Inventory-Management-Tool/blob/main/images/Screenshot%20(522).png?raw=true)
 ![Screenshot 1](https://github.com/Bhumikapatil22/Inventory-Management-Tool/blob/main/images/Screenshot%20(524).png?raw=true)
 
 ## Usage <a name="usage"></a> 
