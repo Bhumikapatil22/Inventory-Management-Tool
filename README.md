@@ -14,7 +14,7 @@ The Inventory Management Tool, developed using Java and the Spring Framework, of
 
 ## Technology <a name="technology"></a>
 - **Frontend**: HTML, CSS, Bootstrap
-- **Backend**: Java, JDBC, JSP, Servlet
+- **Backend**: Spring framework
 - **Database**: MySQL (XAMPP)
 - **Version Control**: Git
 
